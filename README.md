@@ -10,7 +10,10 @@ We believe in making data analytics universally accessible so businesses can ope
 We collaborate with consultants to help drive strategic growth, product development, and market expansion. To ensure a smooth process, we provide access to key documents and resources:
 
 - Consulting Agreement & NDA – Available for review in this repository.
-- Proof of Capability – Documentation on HeronAI’s impact and results.
+- Proof of Capability
+-- [HeronAI Infrastrcuture Proof of Capability]([url](https://docs.google.com/document/d/11nPyaxOrc6XXy9YtdBRRQx0yOSXdl_PUhSocNKHrI-o/edit?tab=t.0#heading=h.dwo3nmpy6tq))
+-- [HeronAI Transformer Proof of Capability Framework]([url](https://docs.google.com/document/d/14loafhaDsMMFqt9TG4hPX-hw1Ly0D6vzNXWx4J2hDWo/edit?tab=t.0#heading=h.dwo3nmpy6tq))
+-- [HeronAI Dashboard Development Proof of Capability Framework]([url](https://docs.google.com/document/d/1QIM-osDGVH_DUaqn1hmT1yz-rqxETrTgteHjTtnN_yI/edit?pli=1&tab=t.0))
 - Timelines – Provided during initial discussions to align expectations.
 Consultant Expectations
 
