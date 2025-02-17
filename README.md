@@ -11,8 +11,9 @@ We collaborate with consultants to help drive strategic growth, product developm
 
 ## Consulting Resources  
 
-- **Consulting Agreement & NDA** – Available for review in this repository.  
-- **Proof of Capability**  
+- **Consulting Agreement & NDA** – Available for review in this repository.
+- **Sales Consultants, please review the Sales Consulting Agreement and NDA**
+- **Proof of Capability for Developers Only**  
   - [HeronAI Infrastructure Proof of Capability](https://docs.google.com/document/d/11nPyaxOrc6XXy9YtdBRRQx0yOSXdl_PUhSocNKHrI-o/edit?tab=t.0#heading=h.dwo3nmpy6tq)  
   - [HeronAI Transformer Proof of Capability Framework](https://docs.google.com/document/d/14loafhaDsMMFqt9TG4hPX-hw1Ly0D6vzNXWx4J2hDWo/edit?tab=t.0#heading=h.dwo3nmpy6tq)  
   - [HeronAI Dashboard Development Proof of Capability Framework](https://docs.google.com/document/d/1QIM-osDGVH_DUaqn1hmT1yz-rqxETrTgteHjTtnN_yI/edit?pli=1&tab=t.0)  
